@@ -46,6 +46,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=51hamu51&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Recent Blog Posts  

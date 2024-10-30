@@ -45,8 +45,10 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=51hamu51&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
+<br/> 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=51hamu51&layout=pie"/>
+</div>  
 
 
 ## Recent Blog Posts  

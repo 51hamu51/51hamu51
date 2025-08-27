@@ -22,13 +22,17 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/51hamu51" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/51hamu51" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github />
 </a>
-<a href="https://twitter.com/https://x.com/B5iBlc" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://x.com/B5iBlc" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter />
 </a>  
+<a href="https://hamu-official-site.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt=portfolio />
+</a>
 </div>  
+
   
 
 <br/>  
